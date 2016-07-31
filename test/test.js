@@ -21,7 +21,7 @@ const correct_result = `どこからどう見ても小学生の自分、『江�
 
 
 test("parse test include code block.", t => {
-	const re = MarkdownParseAddBr.parse(base_str);
+	const re = MarkdownParseAddBr.parse_(base_str);
 	let diff = jsdiff.diffChars(correct_result, re);
 	diff.forEach(function(part){
 		// green for additions, red for deletions 

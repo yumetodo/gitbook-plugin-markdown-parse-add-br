@@ -60,6 +60,7 @@ function parse(s) {
 	return re;
 }
 module.exports = {
+	parse_: parse,
 	hooks: {
 		"page:before": function(page) {
 			const parse_ = parse;

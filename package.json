@@ -1,5 +1,5 @@
 {
-  "name": "markdown_parse_add_br",
+  "name": "gitbook-plugin-markdown-parse-add-br",
   "version": "1.0.0",
   "description": "A GitBook plugin to support newline in paragraph.",
   "main": "index.js",

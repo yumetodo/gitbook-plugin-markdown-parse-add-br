@@ -11,7 +11,7 @@ In ``package.json``
 {
   "devDependencies": {
     "gitbook-cli": "^2.1.2",
-    "gitbook-plugin-markdown-parse-add-br": "^1.0.1",
+    "gitbook-plugin-markdown-parse-add-br": "^1.0.2",
   }
 }
 ```

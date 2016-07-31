@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-markdown-parse-add-br",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A GitBook plugin to support newline in paragraph.",
   "author": "yumetodo <yume-wikijp@live.jp> (https://github.com/yumetodo)",
   "main": "index.js",

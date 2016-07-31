@@ -26,7 +26,7 @@ const correct_result = `どこからどう見ても小学生の自分、『江�
 「——プレート?」<br>
 蘭は眉を寄せた。そんなもの一緒に入っていただろうか…？`;
 const re = parse(base_str);
-let diff = JsDiff.diffSentences(correct_result, re);
+let diff = JsDiff.diffChars(correct_result, re);
  
 let out = document.createElement("pre");
 diff.forEach(function(part){

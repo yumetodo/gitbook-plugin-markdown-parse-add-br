@@ -6,11 +6,12 @@ A GitBook plugin to support newline in paragraph.
 ## Usage
 
 In ``package.json``
+
 ```json
 {
   "devDependencies": {
     "gitbook-cli": "^2.1.2",
-    "gitbook-plugin-markdown-parse-add-br": "^1.0.0",
+    "gitbook-plugin-markdown-parse-add-br": "^1.0.1",
   }
 }
 ```
@@ -23,7 +24,6 @@ In `` book.json``
   "plugins": [
     "markdown-parse-add-br"
   ]
-  }
 }
 ```
 

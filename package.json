@@ -1,7 +1,8 @@
 {
   "name": "gitbook-plugin-markdown-parse-add-br",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A GitBook plugin to support newline in paragraph.",
+  "author": "yumetodo <yume-wikijp@live.jp> (https://github.com/yumetodo)",
   "main": "index.js",
   "scripts": {
     "test": "ava -v"
@@ -9,16 +10,22 @@
   "keywords": [
     "markdown",
     "gitbook",
+    "plugin",
+    "gitbook-plugin",
     "newline"
   ],
-  "author": "yumetodo <yume-wikijp@live.jp> (https://github.com/yumetodo)",
   "license": "MIT",
   "engines": {
-    "node": ">=4.4.3"
+    "node": ">=4.4.3",
+    "gitbook": "*"
   },
   "devDependencies": {
     "ava": "^0.15.2",
     "colors": "^1.1.2",
     "diff": "^2.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yumetodo/gitbook-plugin-markdown-parse-add-br"
   }
 }

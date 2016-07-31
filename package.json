@@ -13,6 +13,9 @@
   ],
   "author": "yumetodo <yume-wikijp@live.jp> (https://github.com/yumetodo)",
   "license": "MIT",
+  "engines": {
+    "node": ">=4.4.3"
+  },
   "devDependencies": {
     "ava": "^0.15.2",
     "colors": "^1.1.2",

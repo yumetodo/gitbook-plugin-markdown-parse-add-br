@@ -20,7 +20,7 @@
     "gitbook": "*"
   },
   "devDependencies": {
-    "ava": "^0.15.2",
+    "ava": "^0.16.0",
     "colors": "^1.1.2",
     "diff": "^2.2.3"
   },

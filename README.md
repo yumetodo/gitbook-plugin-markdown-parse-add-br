@@ -1,3 +1,9 @@
+# IMPORTANT
+
+**DO NOT USE THIS PACKAGE!**
+
+update gitbook to v3.2.2 or later. And remove this package from package.json and book.json
+
 # gitbook-plugin-markdown-parse-add-br
 [![Build Status](https://travis-ci.org/yumetodo/gitbook-plugin-markdown-parse-add-br.svg?branch=master)](https://travis-ci.org/yumetodo/gitbook-plugin-markdown-parse-add-br)
 

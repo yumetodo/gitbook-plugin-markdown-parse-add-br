@@ -1,13 +1,11 @@
 # IMPORTANT
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/yumetodo/gitbook-plugin-markdown-parse-add-br.svg)](https://greenkeeper.io/)
-
 **DO NOT USE THIS PACKAGE!**
 
 update gitbook to v3.2.2 or later. And remove this package from package.json and book.json
 
 # gitbook-plugin-markdown-parse-add-br
-[![Build Status](https://travis-ci.org/yumetodo/gitbook-plugin-markdown-parse-add-br.svg?branch=master)](https://travis-ci.org/yumetodo/gitbook-plugin-markdown-parse-add-br)
+[![Build Status](https://travis-ci.org/yumetodo/gitbook-plugin-markdown-parse-add-br.svg?branch=master)](https://travis-ci.org/yumetodo/gitbook-plugin-markdown-parse-add-br)[![Greenkeeper badge](https://badges.greenkeeper.io/yumetodo/gitbook-plugin-markdown-parse-add-br.svg)](https://greenkeeper.io/)
 
 A GitBook plugin to support newline in paragraph. 
 
